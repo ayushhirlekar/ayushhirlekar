@@ -51,12 +51,5 @@ A platform for cybercrime reporting, chatbot-based guidance, and public cyber aw
 
 
 ➡️ *More projects in my repositories*
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushHirlekar&show_icons=true&cache_seconds=1800)
-
----
 
 ⭐ If you find my work interesting, feel free to star or fork!
