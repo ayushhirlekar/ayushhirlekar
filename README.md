@@ -27,41 +27,12 @@ I actively participate in **hackathons, research-oriented projects, and CTFs**, 
 
 ## 🧰 Tech Stack
 
-### Languages
-- Python, JavaScript (ES6+),C++,Java
-
-### Frontend
-- React.js  
-- HTML5, CSS3  
-- Responsive UI Design
-
-### Backend
-- Node.js, Express.js  
-- Flask (Python-based APIs)  
-- RESTful API Development
-
-### Databases
-- MongoDB  
-- MySQL (basic)
-
-### ML / AI
-- Scikit-learn  
-- PyTorch, TensorFlow  
-- NLP, Sentiment Analysis  
-- Computer Vision  
-- Time-Series Analysis
-
-### Systems & Dev
-- Git & GitHub  
-- Linux  
-- Basic DevOps & CI/CD concepts  
-- IoT & sensor data pipelines
-
-### Blockchain
-- Solidity  
-- ERC-1155 Smart Contracts  
-- IPFS  
-- Meta-transactions & asset tokenization
+**Languages:** Python · JavaScript · C++ · Java  
+**Blockchain:** Solidity · ERC-1155 · IPFS  
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn · NLP · CV  
+**Frontend:** React · HTML · CSS  
+**Backend:** Node.js · Express · Flask  
+**Systems:** Linux · Git · IoT · DevOps basics
 
 ---
 
