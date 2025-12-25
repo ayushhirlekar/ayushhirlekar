@@ -1,16 +1,101 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**ayushhirlekar/ayushhirlekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate  
+🤖 AI/ML | Systems | Blockchain  
+🛠️ Learning by building real-world, end-to-end projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a Computer Science undergraduate with strong interests in Artificial Intelligence, Machine Learning, Systems Research, and Blockchain.
+I focus on building practical, problem-driven projects that push my engineering skills, encourage flexible thinking, and continuously expand my boundaries.
+
+I actively participate in **hackathons, research-oriented projects, and CTFs**, focusing on real-world applicability.
+
+---
+
+## 🔍 Current Focus
+
+- Machine Learning & Deep Learning (Python, PyTorch, Scikit-learn)
+- AI Agents & Conversational Systems
+- Systems & Low-level Programming
+- Blockchain for real-world infrastructure (ERC-1155, smart contracts)
+- Building full-stack AI-powered applications (MERN + ML)
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+- Python, JavaScript (ES6+),C++,Java
+
+### Frontend
+- React.js  
+- HTML5, CSS3  
+- Responsive UI Design
+
+### Backend
+- Node.js, Express.js  
+- Flask (Python-based APIs)  
+- RESTful API Development
+
+### Databases
+- MongoDB  
+- MySQL (basic)
+
+### ML / AI
+- Scikit-learn  
+- PyTorch, TensorFlow  
+- NLP, Sentiment Analysis  
+- Computer Vision  
+- Time-Series Analysis
+
+### Systems & Dev
+- Git & GitHub  
+- Linux  
+- Basic DevOps & CI/CD concepts  
+- IoT & sensor data pipelines
+
+### Blockchain
+- Solidity  
+- ERC-1155 Smart Contracts  
+- IPFS  
+- Meta-transactions & asset tokenization
+
+---
+
+## 📌 Featured Projects
+
+🔹 Decentralized Carbon Credit MRV System
+A monitoring and verification system using satellite data, IoT inputs, and machine learning to support transparent carbon credit validation.
+
+🔹 Neo — An AI Therapist
+A conversational AI therapist that speaks in Gen-Z interactions with built-in sentiment analysis to adapt responses based on user mood.
+
+🔹 Astronomical Image Enhancement ML Pipeline
+An ML-powered preprocessing pipeline for telescope images, focused on calibration, noise reduction, stacking, and deconvolution.
+
+🔹 CyberBuddy — Cyber Crime Portal
+A platform for cybercrime reporting, chatbot-based guidance, and public cyber awareness resources..
+
+
+
+➡️ *More projects in my repositories*
+
+---
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushHirlekar&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [your-linkedin-url]
+- 📧 Email: ayushhirlekar@gmail.com
+
+---
+
+⭐ If you find my work interesting, feel free to star or fork!
