@@ -67,16 +67,15 @@ I actively participate in **hackathons, research-oriented projects, and CTFs**, 
 
 ## 📌 Featured Projects
 
-🔹 Decentralized Carbon Credit MRV System
-A monitoring and verification system using satellite data, IoT inputs, and machine learning to support transparent carbon credit validation.
+🔹 Decentralized Carbon Credit MRV System -                                                                                                                                                                        A monitoring and verification system using satellite data, IoT inputs, and machine learning to support transparent carbon credit validation.
 
-🔹 Neo — An AI Therapist
+🔹 Neo — An AI Therapist -
 A conversational AI therapist that speaks in Gen-Z interactions with built-in sentiment analysis to adapt responses based on user mood.
 
-🔹 Astronomical Image Enhancement ML Pipeline
+🔹 Astronomical Image Enhancement ML Pipeline-
 An ML-powered preprocessing pipeline for telescope images, focused on calibration, noise reduction, stacking, and deconvolution.
 
-🔹 CyberBuddy — Cyber Crime Portal
+🔹 CyberBuddy — Cyber Crime Portal-
 A platform for cybercrime reporting, chatbot-based guidance, and public cyber awareness resources..
 
 
