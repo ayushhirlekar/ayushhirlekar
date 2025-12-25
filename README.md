@@ -55,7 +55,7 @@ A platform for cybercrime reporting, chatbot-based guidance, and public cyber aw
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushHirlekar)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushHirlekar&show_icons=true&cache_seconds=1800)
 
 ---
 
