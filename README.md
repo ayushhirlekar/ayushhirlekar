@@ -79,21 +79,12 @@ An ML-powered preprocessing pipeline for telescope images, focused on calibratio
 A platform for cybercrime reporting, chatbot-based guidance, and public cyber awareness resources..
 
 
-
 ➡️ *More projects in my repositories*
-
 ---
 
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushHirlekar&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: ayushhirlekar@gmail.com
 
 ---
 
